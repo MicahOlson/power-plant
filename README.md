@@ -4,7 +4,7 @@
 \
 [Epicodus](https://www.epicodus.com/) > [React](https://www.learnhowtoprogram.com/react) > [Week 1, Lesson 29](https://www.learnhowtoprogram.com/react/functional-programming-with-javascript/power-plant-project-euler)  
 \
-Date created: 2021-04-12
+Date created: 2021-04-13
 
 ## Authors and Contributors
 Authored by: Micah L. Olson, Logan Roth
@@ -15,9 +15,11 @@ The goal of this exercise is to use closures to store state and practice using c
 
 ## Technologies Used
 * JavaScript
-* Jest
-* Node
+* webpack
+* Node.js
 * npm
+* Jest
+* HTML
 
 ## License
 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)\
