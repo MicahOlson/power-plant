@@ -16,7 +16,7 @@ devServer: {
 plugins: [
   new CleanWebpackPlugin(),
   new HtmlWebpackPlugin({
-    title: 'Power Plant',
+    title: 'Grow Your Plant',
     template: './src/index.html',
     inject: 'body'
   }),
